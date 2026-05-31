@@ -1,0 +1,52 @@
+{
+  "C32": {
+    "cell_line_name": "C32",
+    "depmap_id": "ACH-000019",
+    "ccle_name": "C32_SKIN",
+    "tissue": "Skin",
+    "disease": "Melanoma",
+    "lineage": "Skin",
+    "growth_pattern": "Adherent",
+    "source": "DepMap"
+  },
+  "HePG2/C3A": {
+    "cell_line_name": "HePG2/C3A",
+    "depmap_id": "ACH-001605",
+    "ccle_name": "HEPG2_LIVER",
+    "tissue": "Liver",
+    "disease": "Hepatocellular Carcinoma",
+    "lineage": "Liver",
+    "growth_pattern": "Adherent",
+    "source": "DepMap"
+  },
+  "HoP62": {
+    "cell_line_name": "HoP62",
+    "depmap_id": "ACH-000678",
+    "ccle_name": "HOP62_LUNG",
+    "tissue": "Lung",
+    "disease": "Non-Small Cell Lung Cancer",
+    "lineage": "Lung",
+    "growth_pattern": "Adherent",
+    "source": "DepMap"
+  },
+  "PANC-1": {
+    "cell_line_name": "PANC-1",
+    "depmap_id": "ACH-000570",
+    "ccle_name": "PANC1_PANCREAS",
+    "tissue": "Pancreas",
+    "disease": "Pancreatic Adenocarcinoma",
+    "lineage": "Pancreas",
+    "growth_pattern": "Adherent",
+    "source": "DepMap"
+  },
+  "Hs 766T": {
+    "cell_line_name": "Hs 766T",
+    "depmap_id": "ACH-001113",
+    "ccle_name": "HS766T_PANCREAS",
+    "tissue": "Pancreas",
+    "disease": "Pancreatic Adenocarcinoma",
+    "lineage": "Pancreas",
+    "growth_pattern": "Adherent",
+    "source": "DepMap"
+  }
+}

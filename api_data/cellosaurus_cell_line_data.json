@@ -1,0 +1,72 @@
+{
+  "C32": {
+    "cell_line_name": "C32 [Human melanoma]",
+    "accession_id": "CVCL_1097",
+    "category": "Cancer cell line",
+    "species": "Homo sapiens (Human)",
+    "disease": "Amelanotic melanoma",
+    "cell_type": "N/A",
+    "tissue_origin": "Skin",
+    "sex": "Male",
+    "age": "53Y",
+    "population": "Caucasian",
+    "doubling_time": "53-53 hour",
+    "key_mutations": "PTEN: N/A; BRAF: p.Val600Glu (c.1799T>A); CDKN2A: p.Ter157Serext*13 (c.470G>C); TERT: c.1-124C>T (c.228C>T) (C228T)"
+  },
+  "HePG2/C3A": {
+    "cell_line_name": "Hep-G2/C3A",
+    "accession_id": "CVCL_1098",
+    "category": "Cancer cell line",
+    "species": "Homo sapiens (Human)",
+    "disease": "Hepatoblastoma",
+    "cell_type": "N/A",
+    "tissue_origin": "Liver",
+    "sex": "Male",
+    "age": "15Y",
+    "population": "Caucasian",
+    "doubling_time": "N/A",
+    "key_mutations": "NRAS: p.Gln61Leu (c.182A>T); TERT: c.1-124C>T (c.228C>T) (C228T)"
+  },
+  "HoP62": {
+    "cell_line_name": "HOP-62",
+    "accession_id": "CVCL_1285",
+    "category": "Cancer cell line",
+    "species": "Homo sapiens (Human)",
+    "disease": "Lung adenocarcinoma",
+    "cell_type": "N/A",
+    "tissue_origin": "Lung",
+    "sex": "Female",
+    "age": "60Y",
+    "population": "Caucasian",
+    "doubling_time": "30-39 hour",
+    "key_mutations": "KRAS: p.Gly12Cys (c.34G>T); TERT: c.1-124C>T (c.228C>T) (C228T); TP53: c.673-2A>G (IVS6-2A>G)"
+  },
+  "PANC-1": {
+    "cell_line_name": "PANC-1",
+    "accession_id": "CVCL_0480",
+    "category": "Cancer cell line",
+    "species": "Homo sapiens (Human)",
+    "disease": "Pancreatic ductal adenocarcinoma",
+    "cell_type": "N/A",
+    "tissue_origin": "Pancreas",
+    "sex": "Male",
+    "age": "56Y",
+    "population": "Caucasian",
+    "doubling_time": "15-52 hour",
+    "key_mutations": "CDKN2A: N/A; KRAS: p.Gly12Asp (c.35G>A); TP53: p.Arg273His (c.818G>A)"
+  },
+  "Hs 766T": {
+    "cell_line_name": "Hs 766T",
+    "accession_id": "CVCL_0334",
+    "category": "Cancer cell line",
+    "species": "Homo sapiens (Human)",
+    "disease": "Pancreatic adenocarcinoma",
+    "cell_type": "N/A",
+    "tissue_origin": "Lymph node",
+    "sex": "Male",
+    "age": "64Y",
+    "population": "Caucasian",
+    "doubling_time": "30-168 hour",
+    "key_mutations": "SMAD4: N/A; KRAS: p.Gln61His (c.183A>C); TP53: -"
+  }
+}
